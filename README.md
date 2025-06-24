@@ -3,6 +3,10 @@ This is the repository for the LinkedIn Learning course `Building a Modern AI Ch
 
 ![course-name-alt-text][lil-thumbnail-url] 
 
+## Course Description
+
+In this hands-on course, technical content creator Ebenezer Don guides you through building an AI chat application using Next.js and OpenAI GPT models. Learn how to create a fully functional chatbot with features like conversation threading, message persistence, and real-time responses. The course emphasizes best practices in state management, API integration, and modern UI development. When you complete the course, you will have a production-ready AI chat application that showcases modern web development practices.
+
 _See the readme file in the main branch for updated instructions and information._
 ## Instructions
 This repository has branches for each of the videos in the course. You can use the branch pop up menu in github to switch to a specific branch and take a look at the course at that stage, or you can add `/tree/BRANCH_NAME` to the URL to go to the branch you want to access.
@@ -22,15 +26,9 @@ To resolve this issue:
     Add changes to git using this command: git add .
 	Commit changes using this command: git commit -m "some message"
 
-## Installing
-1. To use these exercise files, you must have the following installed:
-	- [list of requirements for course]
-2. Clone this repository into your local machine using the terminal (Mac), CMD (Windows), or a GUI tool like SourceTree.
-3. [Course-specific instructions]
-
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 
-[lil-course-url]: https://www.linkedin.com/learning/
-[lil-thumbnail-url]: http://
+[lil-course-url]: https://www.linkedin.com/learning/hands-on-ai-build-an-ai-chatbot-with-gpt-4o-and-next-js
+[lil-thumbnail-url]: https://media.licdn.com/dms/image/v2/D4E0DAQG35oVjgWP9cA/learning-public-crop_675_1200/B4EZc3qeSZH0Ao-/0/1748985570771?e=2147483647&v=beta&t=59hJHD4ViN-SdcPPRWe_J1fAvYIJmC8WVStCt2nB6OQ
 
